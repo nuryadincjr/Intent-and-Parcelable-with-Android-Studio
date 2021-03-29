@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tugas2</string>
+    <string name="name_npm">NPM</string>
+    <string name="name_nama">Nama</string>
+    <string name="name_kelas">Kelas</string>
+    <string name="name_jurusan">Jurusan</string>
+    <string name="button_kirim">Kirim</string>
+</resources>

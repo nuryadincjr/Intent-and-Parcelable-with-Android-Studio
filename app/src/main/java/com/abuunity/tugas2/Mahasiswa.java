@@ -4,7 +4,10 @@ import android.os.Parcel;
 import android.os.Parcelable;
 
 public class Mahasiswa implements Parcelable {
-    private String npm, nama, kelas, jurusan;
+    private final String npm;
+    private final String nama;
+    private final String kelas;
+    private final String jurusan;
 
     public Mahasiswa(String npm, String nama, String kelas, String jurusan) {
         this.npm = npm;
